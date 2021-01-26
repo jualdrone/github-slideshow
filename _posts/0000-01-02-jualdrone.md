@@ -2,8 +2,8 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
-
+title: "Welcome to our JUALDRONE slide!"
+Here we learn Git
 ---
 
 Your text
